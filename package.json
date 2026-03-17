@@ -1,7 +1,7 @@
 {
   "name": "rzoffc-ai",
   "version": "1.0.0",
-  "engines": { "node": ">=18.x" },
+  "engines": { "node": "20.x" },
   "dependencies": {
     "@vercel/kv": "^2.0.0"
   }
